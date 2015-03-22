@@ -1,6 +1,6 @@
 ---
 title: "Regression Models Project - Motor Trend Data Analysis Report"
-author: "by Xiaodan (Sally) Zhang"
+author: "Srinivas Reddy T"
 output:
   pdf_document:
     fig_height: 7

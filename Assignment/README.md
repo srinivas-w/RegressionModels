@@ -7,4 +7,3 @@ They are particularly interested in the following two questions:
 1. "Is an automatic or manual transmission better for MPG"  
 2. "Quantify the MPG difference between automatic and manual transmissions"
   
-© Xiaodan Zhang 2015 All Rights reserved.
